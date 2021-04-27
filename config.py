@@ -11,10 +11,10 @@ if HEROKU:
 
 # NOTE Fill this if you are not deploying on heroku.
 if not HEROKU:
-    API_ID = 14371
-    API_HASH = "e46b6c854d2bf58a0"
-    SUDO_CHAT_ID = -1001485876964
-    SUDOERS = [1243703097, 13216546]
+    API_ID = 5140853
+    API_HASH = "5ad177b93b372ece795bae27a6d08208"
+    SUDO_CHAT_ID = -1001484242981
+    SUDOERS = [1790320109, 1021875240]
 
 # don't make changes below this line
 ARQ_API = "https://thearq.tech"
